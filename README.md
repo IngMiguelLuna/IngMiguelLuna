@@ -1,16 +1,70 @@
-<p>
-    <img height="100p" src="https://scontent.cdninstagram.com/v/t51.29350-15/413447428_894285632219929_1884496322962810426_n.webp?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyOTM1MC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=101&_nc_ohc=FR9uP-Iov2IQ7kNvgFZirHN&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzI2NTQ4MzI4NjAyODkyNjc4MA%3D%3D.2-ccb7-5&oh=00_AYDVxr4bICPhP6gNArpJS4QTGaCN0TL04AkVG6IQ6bFFUQ&oe=66D035F4&_nc_sid=10d13b"/>
-    <h1>Ing. Miguel Luna</h1>
-</p>
+<!DOCTYPE markdown>
+<html>
+<head>
+    <!--<style>
+        @keyframes blink {
+            0% { opacity: 1; }
+            50% { opacity: 0; }
+            100% { opacity: 1; }
+        }
+        .blink {
+            animation: blink 1s infinite;
+            color: #ff5733;
+            font-weight: bold;
+        }
+        @keyframes slide {
+            0% { transform: translateX(-100%); }
+            100% { transform: translateX(0); }
+        }
+        .slide {
+            display: inline-block;
+            animation: slide 1s ease-in-out;
+        }
+    </style>-->
+</head>
+<body>
 
-<ls>
-    <h4>Ingeniero en Mecatrónica</h4>
-    <h5>° Embedded system codes - Codigos de sistemas embebidos</h5>
-    <h5>° MC modding Forge/Fabric</h5>
-    <h5>° 3D models</h5>
-    <h5>° +</h5>
-</ls>
-<!---
-IngMiguelLuna/IngMiguelLuna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">👋 ¡Hola! Soy Miguel Ángel Luna</h1>
+<h2 align="center" class="blink">Ingeniero en Mecatrónica</h2>
+
+<h2>🎯 Sobre mí</h2>
+<p class="slide">Soy un apasionado de la <b>automatización</b>, el <b>desarrollo de software</b> y los <b>sistemas embebidos</b>. Mi experiencia abarca desde el mantenimiento industrial hasta la programación en múltiples lenguajes.</p>
+
+<h2>🛠️ Tecnologías y habilidades</h2>
+<ul>
+    <li>⚙️ <b>Mecatrónica</b>: Control y automatización industrial, PLCs y mantenimiento.</li>
+    <li>💾 <b>Sistemas Embebidos</b>: Programación en C/C++ para microcontroladores.</li>
+    <li>📱 <b>Desarrollo móvil</b>: Aplicaciones en <b>Kotlin</b> para Android.</li>
+    <li>🖥️ <b>Lenguajes de programación</b>: Python, C++, C#, Kotlin.</li>
+    <li>🤖 <b>Inteligencia Artificial</b>: Desarrollo en Python.</li>
+</ul>
+
+<h2>📂 ¿Qué encontrarás en este repositorio?</h2>
+<p>Proyectos en:</p>
+<ul>
+    <li>🐍 <b>Python</b>: Scripts de automatización, AI y más.</li>
+    <li>🎮 <b>C++ y C#</b>: Desarrollo de aplicaciones y control de hardware.</li>
+    <li>📱 <b>Kotlin</b>: Aplicaciones móviles innovadoras.</li>
+    <li>🤖 <b>AI en Python</b>: Modelos de machine learning e IA aplicada.</li>
+</ul>
+<!--
+<h2>🚀 Animaciones en Acción</h2>
+<div id="animation"></div>
+-->
+<!--<script>
+    const animationDiv = document.getElementById("animation");
+    let count = 0;
+    function animate() {
+        animationDiv.innerHTML = "<b>Procesando...</b> " + "⚙️".repeat(count % 5 + 1);
+        count++;
+        setTimeout(animate, 500);
+    }
+    animate();
+</script>-->
+
+<h2>📩 Conéctate conmigo</h2>
+<p>📧 <b>Email</b>: ing.miguel.luna.l@gmail.com</p>
+<p>💼 <b>LinkedIn</b>: [Tu perfil aquí]</p>
+
+</body>
+</html>
