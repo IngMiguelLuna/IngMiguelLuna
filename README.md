@@ -64,7 +64,6 @@
 
 <h2>📩 Conéctate conmigo</h2>
 <p>📧 <b>Email</b>: ing.miguel.luna.l@gmail.com</p>
-<p>💼 <b>LinkedIn</b>: [Tu perfil aquí]</p>
 
 </body>
 </html>
